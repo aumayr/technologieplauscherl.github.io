@@ -309,3 +309,12 @@
       link: https://agiletourvienna.at/
       date: 2022-09-15
       cost: EUR
+-
+  id: work-in-progress
+  name: "WiP - Work in Progress"
+  events:  
+   -
+      name: "WiP: 3D Scan mit Dominic & Daniel von qapture"
+      location: "Ubitec Office, TFL Linz"
+      link: https://wip.ubitec.at/
+      date: 2022-09-29
